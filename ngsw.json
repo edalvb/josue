@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612366709393,
+  "timestamp": 1612367129882,
   "index": "/josue/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/josue/favicon.ico",
         "/josue/index.html",
-        "/josue/main.4e4f7ca2c57e0e8f1f8a.js",
+        "/josue/main.1dc0a89c99edd3a6745d.js",
         "/josue/manifest.webmanifest",
         "/josue/polyfills.6abdde2583a2e01a2350.js",
         "/josue/runtime.7b63b9fd40098a2e8207.js",
@@ -52,8 +52,8 @@
     "/josue/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/josue/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/josue/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/josue/index.html": "a9cf1a6ae8ae50d1d6396729ef7313b328e69bb4",
-    "/josue/main.4e4f7ca2c57e0e8f1f8a.js": "34f1dd5b0f8588e430a8c94b01d694fb184706d1",
+    "/josue/index.html": "2718d7378f680ad81552f0429cf95871fe7a7788",
+    "/josue/main.1dc0a89c99edd3a6745d.js": "d5a2eeca3fa608bee87e8fc66a9a8aa6d2150260",
     "/josue/manifest.webmanifest": "6983b0d3acad0f5a4aa600c3fbf6d1666029eaf3",
     "/josue/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/josue/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
